@@ -1,3 +1,2 @@
-import numpy as np
-
-from .constants import Mpc, G
+G = 6.6743e-11
+Mpc = 3.08568e22
